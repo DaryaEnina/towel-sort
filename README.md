@@ -10,7 +10,7 @@ Your task is to implement the so-called 'towel sort' algorithm.
  [ 1, 2, 3 ],
  [ 4, 5, 6 ],
  [ 7, 8, 9 ],
-]
+]0
 ```
 
 Following matrix should be 'sorted' to:
